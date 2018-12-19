@@ -1,0 +1,13 @@
+Dear {!NullValue(Contact.FirstName, "Sir or Madam")},
+
+This is your timesheet information:
+
+Start Date: {!Timesheet__c.Start_Date__c}
+End Date:  {!Timesheet__c.End_Date__c}
+Taxes:        {!Timesheet__c.Taxes__c}
+Gross pay: {!Timesheet__c.Gross_Pay__c}
+Status:       {!Timesheet__c.Timesheet_Status__c}
+Type:          {!Timesheet__c.Type__c}
+
+Thank you,
+Timesheets support team.
