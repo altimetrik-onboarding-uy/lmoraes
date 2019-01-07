@@ -1,0 +1,22 @@
+<aura:component implements="force:appHostable,flexipage:availableForAllPageTypes" access="global" controller="TimesheetController">
+    <aura:attribute name="data" type="Object" />
+    <aura:attribute name="columns" type="List" />
+    <aura:attribute name="Timesheets" type="Timesheet__c"/>
+    
+    <aura:handler name="init" action="{!c.doInit}" value="{!this}" />
+    
+   <ui:inputRadio aura:id="r0" name="group" label="All Timesheets" change="{!c.onGroup}" value="true"/>
+   <ui:inputRadio aura:id="r1" name="group" label="Recent Timesheets" change="{!c.onGroup}" />
+    <br />
+    
+    <lightning:layout horizontalAlign="space">
+        <lightning:layoutItem size="12">
+            <lightning:datatable columns="{! v.columns }" 
+                                 data="{! v.data }" 
+                                 keyField="Id" 
+                                 onrowselection="{! c.getSelectedName }" 
+                                 hideCheckboxColumn="true" 
+                                 class="slds-table_striped" />
+        </lightning:layoutItem>    
+    </lightning:layout>
+</aura:component>
