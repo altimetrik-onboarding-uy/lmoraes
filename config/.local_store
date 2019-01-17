@@ -8,7 +8,7 @@
         "id": "0Ad1U000001FOXcSAO",
         "lastModifiedById": "0051U000000bEX2QAM",
         "lastModifiedByName": "Luis Moraes",
-        "lastModifiedDate": "2019-01-03T17:53:42.000Z",
+        "lastModifiedDate": "2019-01-17T13:25:31.000Z",
         "manageableState": "unmanaged",
         "type": "AuraDefinitionBundle",
         "mmState": "clean"
@@ -22,7 +22,7 @@
         "id": "0Ad1U000001Eo4WSAS",
         "lastModifiedById": "0051U000000bEX2QAM",
         "lastModifiedByName": "Luis Moraes",
-        "lastModifiedDate": "2019-01-04T17:55:44.000Z",
+        "lastModifiedDate": "2019-01-16T14:02:45.000Z",
         "manageableState": "unmanaged",
         "type": "AuraDefinitionBundle",
         "mmState": "clean"
@@ -36,7 +36,7 @@
         "id": "0Ad1U000001EhPKSA0",
         "lastModifiedById": "0051U000000bEX2QAM",
         "lastModifiedByName": "Luis Moraes",
-        "lastModifiedDate": "2019-01-04T18:19:31.000Z",
+        "lastModifiedDate": "2019-01-16T19:16:31.000Z",
         "manageableState": "unmanaged",
         "type": "AuraDefinitionBundle",
         "mmState": "clean"
@@ -50,7 +50,7 @@
         "id": "0Ad1U000001Eo4RSAS",
         "lastModifiedById": "0051U000000bEX2QAM",
         "lastModifiedByName": "Luis Moraes",
-        "lastModifiedDate": "2019-01-03T16:41:13.000Z",
+        "lastModifiedDate": "2019-01-16T14:02:26.000Z",
         "manageableState": "unmanaged",
         "type": "AuraDefinitionBundle",
         "mmState": "clean"
@@ -83,20 +83,6 @@
         "type": "Report",
         "mmState": "clean"
     },
-    "unfiled$public/Approved.email": {
-        "createdById": "0051U000000bEX2QAM",
-        "createdByName": "Luis Moraes",
-        "createdDate": "2018-12-14T18:49:52.000Z",
-        "fileName": "unpackaged/email/unfiled$public/Approved.email",
-        "fullName": "unfiled$public/Approved",
-        "id": "00X1U000000YerrUAC",
-        "lastModifiedById": "0051U000000bEX2QAM",
-        "lastModifiedByName": "Luis Moraes",
-        "lastModifiedDate": "2018-12-17T19:59:48.000Z",
-        "manageableState": "unmanaged",
-        "type": "EmailTemplate",
-        "mmState": "clean"
-    },
     "unfiled$public/GrossPaymentEmail.email": {
         "createdById": "0051U000000bEX2QAM",
         "createdByName": "Luis Moraes",
@@ -107,6 +93,20 @@
         "lastModifiedById": "0051U000000bEX2QAM",
         "lastModifiedByName": "Luis Moraes",
         "lastModifiedDate": "2018-12-17T13:31:46.000Z",
+        "manageableState": "unmanaged",
+        "type": "EmailTemplate",
+        "mmState": "clean"
+    },
+    "unfiled$public/Approved.email": {
+        "createdById": "0051U000000bEX2QAM",
+        "createdByName": "Luis Moraes",
+        "createdDate": "2018-12-14T18:49:52.000Z",
+        "fileName": "unpackaged/email/unfiled$public/Approved.email",
+        "fullName": "unfiled$public/Approved",
+        "id": "00X1U000000YerrUAC",
+        "lastModifiedById": "0051U000000bEX2QAM",
+        "lastModifiedByName": "Luis Moraes",
+        "lastModifiedDate": "2018-12-17T19:59:48.000Z",
         "manageableState": "unmanaged",
         "type": "EmailTemplate",
         "mmState": "clean"
@@ -245,7 +245,21 @@
         "id": "01p1U000008bBodQAE",
         "lastModifiedById": "0051U000000bEX2QAM",
         "lastModifiedByName": "Luis Moraes",
-        "lastModifiedDate": "2019-01-07T17:06:11.000Z",
+        "lastModifiedDate": "2019-01-17T13:38:31.000Z",
+        "manageableState": "unmanaged",
+        "type": "ApexClass",
+        "mmState": "clean"
+    },
+    "TimesheetsTesting.cls": {
+        "createdById": "0051U000000bEX2QAM",
+        "createdByName": "Luis Moraes",
+        "createdDate": "2019-01-15T12:51:18.000Z",
+        "fileName": "unpackaged/classes/TimesheetsTesting.cls",
+        "fullName": "TimesheetsTesting",
+        "id": "01p1U00000BvL0WQAV",
+        "lastModifiedById": "0051U000000bEX2QAM",
+        "lastModifiedByName": "Luis Moraes",
+        "lastModifiedDate": "2019-01-15T19:38:44.000Z",
         "manageableState": "unmanaged",
         "type": "ApexClass",
         "mmState": "clean"
@@ -264,20 +278,6 @@
         "type": "ApexTrigger",
         "mmState": "clean"
     },
-    "Status_change1.trigger": {
-        "createdById": "0051U000000bEX2QAM",
-        "createdByName": "Luis Moraes",
-        "createdDate": "2018-12-20T18:26:38.000Z",
-        "fileName": "unpackaged/triggers/Status_change1.trigger",
-        "fullName": "Status_change1",
-        "id": "01q1U000000MYsNQAW",
-        "lastModifiedById": "0051U000000bEX2QAM",
-        "lastModifiedByName": "Luis Moraes",
-        "lastModifiedDate": "2018-12-20T18:31:37.000Z",
-        "manageableState": "unmanaged",
-        "type": "ApexTrigger",
-        "mmState": "clean"
-    },
     "Status_change.trigger": {
         "createdById": "0051U000000bEX2QAM",
         "createdByName": "Luis Moraes",
@@ -287,7 +287,7 @@
         "id": "01q1U000000MYrUQAW",
         "lastModifiedById": "0051U000000bEX2QAM",
         "lastModifiedByName": "Luis Moraes",
-        "lastModifiedDate": "2018-12-20T18:39:02.000Z",
+        "lastModifiedDate": "2019-01-14T19:42:53.000Z",
         "manageableState": "unmanaged",
         "type": "ApexTrigger",
         "mmState": "clean"

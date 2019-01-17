@@ -63,5 +63,9 @@
         <members>unfiled$public/TimesheetReport_xws</members>
         <name>Report</name>
     </types>
+    <types>
+        <members>*</members>
+        <name>ReportType</name>
+    </types>
     <version>36.0</version>
 </Package>

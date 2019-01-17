@@ -14135,16 +14135,6 @@
                 "children": [
                     {
                         "leaf": true,
-                        "title": "SUPPORTSelfServiceNewUserLoginInformationSAMPLE",
-                        "checked": false,
-                        "text": "SUPPORTSelfServiceNewUserLoginInformationSAMPLE",
-                        "level": 3,
-                        "isFolder": false,
-                        "id": "EmailTemplate.unfiled$public.SUPPORTSelfServiceNewUserLoginInformationSAMPLE",
-                        "select": false
-                    },
-                    {
-                        "leaf": true,
                         "title": "MarketingProductInquiryResponse",
                         "checked": false,
                         "text": "MarketingProductInquiryResponse",
@@ -14155,12 +14145,62 @@
                     },
                     {
                         "leaf": true,
-                        "title": "SUPPORTSelfServiceNewCommentNotificationSAMPLE",
+                        "title": "GrossPaymentEmail",
                         "checked": false,
-                        "text": "SUPPORTSelfServiceNewCommentNotificationSAMPLE",
+                        "text": "GrossPaymentEmail",
                         "level": 3,
                         "isFolder": false,
-                        "id": "EmailTemplate.unfiled$public.SUPPORTSelfServiceNewCommentNotificationSAMPLE",
+                        "id": "EmailTemplate.unfiled$public.GrossPaymentEmail",
+                        "select": false
+                    },
+                    {
+                        "leaf": true,
+                        "title": "Rejected",
+                        "checked": false,
+                        "text": "Rejected",
+                        "level": 3,
+                        "isFolder": false,
+                        "id": "EmailTemplate.unfiled$public.Rejected",
+                        "select": false
+                    },
+                    {
+                        "leaf": true,
+                        "title": "InitialNotification",
+                        "checked": false,
+                        "text": "InitialNotification",
+                        "level": 3,
+                        "isFolder": false,
+                        "id": "EmailTemplate.unfiled$public.InitialNotification",
+                        "select": false
+                    },
+                    {
+                        "leaf": true,
+                        "title": "SUPPORTSelfServiceNewUserLoginInformationSAMPLE",
+                        "checked": false,
+                        "text": "SUPPORTSelfServiceNewUserLoginInformationSAMPLE",
+                        "level": 3,
+                        "isFolder": false,
+                        "id": "EmailTemplate.unfiled$public.SUPPORTSelfServiceNewUserLoginInformationSAMPLE",
+                        "select": false
+                    },
+                    {
+                        "leaf": true,
+                        "title": "SUPPORTSelfServiceResetPasswordSAMPLE",
+                        "checked": false,
+                        "text": "SUPPORTSelfServiceResetPasswordSAMPLE",
+                        "level": 3,
+                        "isFolder": false,
+                        "id": "EmailTemplate.unfiled$public.SUPPORTSelfServiceResetPasswordSAMPLE",
+                        "select": false
+                    },
+                    {
+                        "leaf": true,
+                        "title": "SupportCaseCreatedPhoneInquiries",
+                        "checked": false,
+                        "text": "SupportCaseCreatedPhoneInquiries",
+                        "level": 3,
+                        "isFolder": false,
+                        "id": "EmailTemplate.unfiled$public.SupportCaseCreatedPhoneInquiries",
                         "select": false
                     },
                     {
@@ -14171,6 +14211,56 @@
                         "level": 3,
                         "isFolder": false,
                         "id": "EmailTemplate.unfiled$public.SupportSelfServiceResetPassword",
+                        "select": false
+                    },
+                    {
+                        "leaf": true,
+                        "title": "SalesNewCustomerEmail",
+                        "checked": false,
+                        "text": "SalesNewCustomerEmail",
+                        "level": 3,
+                        "isFolder": false,
+                        "id": "EmailTemplate.unfiled$public.SalesNewCustomerEmail",
+                        "select": false
+                    },
+                    {
+                        "leaf": true,
+                        "title": "SupportCaseAssignmentNotification",
+                        "checked": false,
+                        "text": "SupportCaseAssignmentNotification",
+                        "level": 3,
+                        "isFolder": false,
+                        "id": "EmailTemplate.unfiled$public.SupportCaseAssignmentNotification",
+                        "select": false
+                    },
+                    {
+                        "leaf": true,
+                        "title": "SupportSelfServiceNewLoginandPassword",
+                        "checked": false,
+                        "text": "SupportSelfServiceNewLoginandPassword",
+                        "level": 3,
+                        "isFolder": false,
+                        "id": "EmailTemplate.unfiled$public.SupportSelfServiceNewLoginandPassword",
+                        "select": false
+                    },
+                    {
+                        "leaf": true,
+                        "title": "SupportEscalatedCaseNotification",
+                        "checked": false,
+                        "text": "SupportEscalatedCaseNotification",
+                        "level": 3,
+                        "isFolder": false,
+                        "id": "EmailTemplate.unfiled$public.SupportEscalatedCaseNotification",
+                        "select": false
+                    },
+                    {
+                        "leaf": true,
+                        "title": "SupportCaseResponse",
+                        "checked": false,
+                        "text": "SupportCaseResponse",
+                        "level": 3,
+                        "isFolder": false,
+                        "id": "EmailTemplate.unfiled$public.SupportCaseResponse",
                         "select": false
                     },
                     {
@@ -14195,62 +14285,12 @@
                     },
                     {
                         "leaf": true,
-                        "title": "GrossPaymentEmail",
+                        "title": "SUPPORTSelfServiceNewCommentNotificationSAMPLE",
                         "checked": false,
-                        "text": "GrossPaymentEmail",
+                        "text": "SUPPORTSelfServiceNewCommentNotificationSAMPLE",
                         "level": 3,
                         "isFolder": false,
-                        "id": "EmailTemplate.unfiled$public.GrossPaymentEmail",
-                        "select": false
-                    },
-                    {
-                        "leaf": true,
-                        "title": "SupportCaseAssignmentNotification",
-                        "checked": false,
-                        "text": "SupportCaseAssignmentNotification",
-                        "level": 3,
-                        "isFolder": false,
-                        "id": "EmailTemplate.unfiled$public.SupportCaseAssignmentNotification",
-                        "select": false
-                    },
-                    {
-                        "leaf": true,
-                        "title": "SalesNewCustomerEmail",
-                        "checked": false,
-                        "text": "SalesNewCustomerEmail",
-                        "level": 3,
-                        "isFolder": false,
-                        "id": "EmailTemplate.unfiled$public.SalesNewCustomerEmail",
-                        "select": false
-                    },
-                    {
-                        "leaf": true,
-                        "title": "SUPPORTSelfServiceResetPasswordSAMPLE",
-                        "checked": false,
-                        "text": "SUPPORTSelfServiceResetPasswordSAMPLE",
-                        "level": 3,
-                        "isFolder": false,
-                        "id": "EmailTemplate.unfiled$public.SUPPORTSelfServiceResetPasswordSAMPLE",
-                        "select": false
-                    },
-                    {
-                        "leaf": true,
-                        "title": "InitialNotification",
-                        "checked": false,
-                        "text": "InitialNotification",
-                        "level": 3,
-                        "isFolder": false,
-                        "id": "EmailTemplate.unfiled$public.InitialNotification",
-                        "select": false
-                    },
-                    {
-                        "leaf": true,
-                        "title": "SupportSelfServiceNewLoginandPassword",
-                        "checked": false,
-                        "text": "SupportSelfServiceNewLoginandPassword",
-                        "level": 3,
-                        "isFolder": false,
-                        "id": "EmailTemplate.unfiled$public.SupportSelfServiceNewLoginandPassword",
+                        "id": "EmailTemplate.unfiled$public.SUPPORTSelfServiceNewCommentNotificationSAMPLE",
                         "select": false
                     },
                     {
@@ -14261,46 +14301,6 @@
                         "level": 3,
                         "isFolder": false,
                         "id": "EmailTemplate.unfiled$public.SupportCaseCreatedWebInquiries",
-                        "select": false
-                    },
-                    {
-                        "leaf": true,
-                        "title": "SupportEscalatedCaseNotification",
-                        "checked": false,
-                        "text": "SupportEscalatedCaseNotification",
-                        "level": 3,
-                        "isFolder": false,
-                        "id": "EmailTemplate.unfiled$public.SupportEscalatedCaseNotification",
-                        "select": false
-                    },
-                    {
-                        "leaf": true,
-                        "title": "SupportCaseCreatedPhoneInquiries",
-                        "checked": false,
-                        "text": "SupportCaseCreatedPhoneInquiries",
-                        "level": 3,
-                        "isFolder": false,
-                        "id": "EmailTemplate.unfiled$public.SupportCaseCreatedPhoneInquiries",
-                        "select": false
-                    },
-                    {
-                        "leaf": true,
-                        "title": "SupportCaseResponse",
-                        "checked": false,
-                        "text": "SupportCaseResponse",
-                        "level": 3,
-                        "isFolder": false,
-                        "id": "EmailTemplate.unfiled$public.SupportCaseResponse",
-                        "select": false
-                    },
-                    {
-                        "leaf": true,
-                        "title": "Rejected",
-                        "checked": false,
-                        "text": "Rejected",
-                        "level": 3,
-                        "isFolder": false,
-                        "id": "EmailTemplate.unfiled$public.Rejected",
                         "select": false
                     }
                 ],
