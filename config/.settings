@@ -1,0 +1,31 @@
+{
+    "projectName": "Timesheets application",
+    "username": "lmoraes1@altimetrik.com",
+    "id": "4bc7e1d0-0392-11e9-840f-eb2d526c2a25",
+    "namespace": "",
+    "orgType": "developer",
+    "loginUrl": "https://login.salesforce.com/",
+    "instanceUrl": "https://na85.salesforce.com",
+    "workspace": "C:\\Users\\lmoraes\\Documents",
+    "subscription": [
+        "ApexClass",
+        "ApexComponent",
+        "ApexPage",
+        "ApexTrigger",
+        "ApprovalProcess",
+        "AuraDefinitionBundle",
+        "CustomApplication",
+        "CustomApplicationComponent",
+        "CustomLabels",
+        "CustomMetadata",
+        "CustomObject",
+        "CustomTab",
+        "EmailTemplate",
+        "FlexiPage",
+        "Flow",
+        "FlowDefinition",
+        "Report",
+        "ReportType",
+        "StaticResource"
+    ]
+}
